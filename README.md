@@ -5,6 +5,7 @@
 - 📫 How to reach me: By Using my publicly available git and e-mails:
 - 📝 https://github.com/Sofia-Amouei
 - 📚 https://www.kaggle.com/fatemeamouei
+- 📰 https://linkedin.com/in/FatemeAmouei
 - 💻 fatemeamouei79@gmail.com
 - 📩 sofiaamouei2000@yahoo.com
 <!---
